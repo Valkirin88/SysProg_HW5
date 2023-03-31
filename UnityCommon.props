@@ -1,0 +1,6 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectName>SysProg_HW4</ProjectName>
+    <ScriptingBackend>mono</ScriptingBackend>
+  </PropertyGroup>
+</Project>
